@@ -1,7 +1,5 @@
 # RoyalRiders Traveling Agency Website
 
-![RoyalRiders Logo](link/to/logo.png)
-
 Welcome to RoyalRiders! This is a responsive website for a traveling agency, designed to provide users with a seamless experience across various devices. The website is built using HTML, CSS, JavaScript, and Bootstrap.
 
 ## Features
